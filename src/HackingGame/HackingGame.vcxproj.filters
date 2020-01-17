@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DarkForest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\11Sun.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\12Moon.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\13Planet.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\14Planet.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\15Planet.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\16Planet.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\17Planet.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\18Planet.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\bullet04.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Bullet05.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Bullet006.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Bullet06.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Bullet07.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Bullet08.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Bullet09.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Bullet10.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Stage0.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Stage1.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Stage2.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Stage3.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Stage4.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Stage5.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Stage6.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Stage7.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Stage8.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Stage9.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Stage10.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Stage12.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Stage11.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Wing.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Hero.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Enemy.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\Boss.bmp">
+      <Filter>资源文件\bmp</Filter>
+    </Image>
+    <Image Include="res\icon.ico">
+      <Filter>资源文件\ico</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{733a9326-0d85-433e-a0b6-05d70d83f6b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{95daf487-4958-4d21-8e5c-c1df66f895ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{c87e2197-bdeb-46c0-92fb-e281f9c8ca1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\bmp">
+      <UniqueIdentifier>{ad827f43-e43e-4d64-b572-1561f59de070}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\cur">
+      <UniqueIdentifier>{78baf58b-85c9-4e60-b746-3732192ba298}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\ico">
+      <UniqueIdentifier>{d46b29a8-bcd2-4ac8-bb44-095e4b000163}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DarkForest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Arrow.cur">
+      <Filter>资源文件\cur</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DarkForest.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
